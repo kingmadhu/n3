@@ -26,9 +26,9 @@ export default function ContactPage() {
               <div className="ml-4">
                 <h3 className="font-semibold text-gray-900">Office Location</h3>
                 <p className="text-gray-600">
-                  123 Tech Street<br />
-                  San Francisco, CA 94105<br />
-                  United States
+                  Bootstart<br />
+                  Bangalore, Karnataka <br />
+                  India
                 </p>
               </div>
             </div>
@@ -37,7 +37,7 @@ export default function ContactPage() {
               <Phone className="w-6 h-6 text-indigo-600 mt-1" />
               <div className="ml-4">
                 <h3 className="font-semibold text-gray-900">Phone</h3>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+91-8549972339</p>
               </div>
             </div>
 

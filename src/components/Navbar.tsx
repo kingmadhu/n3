@@ -12,7 +12,7 @@ export default function Navbar() {
           <div className="flex">
             <Link to="/" className="flex-shrink-0 flex items-center">
               <Code2 className="h-8 w-8 text-indigo-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">TechVision</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">KMA Software</span>
             </Link>
           </div>
 

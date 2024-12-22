@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <Link to="/" className="flex items-center mb-4">
               <Code2 className="h-8 w-8 text-indigo-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">TechVision</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">KMA Software</span>
             </Link>
             <p className="text-gray-600 mb-4">
               Transforming businesses through innovative technology solutions.
@@ -97,14 +97,14 @@ export default function Footer() {
             <h3 className="text-gray-900 font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
               <li className="text-gray-600">
-                123 Tech Street<br />
-                San Francisco, CA 94105
+                Boot Start, <br />
+                Bangalore, Karnataka, India
               </li>
               <li className="text-gray-600">
-                Phone: +1 (555) 123-4567
+                Phone: +91 - 8549972339
               </li>
               <li className="text-gray-600">
-                Email: contact@techvision.com
+                Email: info@kmasoftare.in
               </li>
             </ul>
           </div>
